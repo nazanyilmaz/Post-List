@@ -1,0 +1,119 @@
+{
+  "post": [
+    {
+      "id": "1",
+      "user": "Amanda",
+      "title": "React MVC Pattern",
+      "text": "Where can I use react mvc pattern?",
+      "date": "2023-09-10"
+    },
+    {
+      "id": "2",
+      "user": "John",
+      "title": "React State Management",
+      "text": "What are the best practices for state management in React?",
+      "date": "2023-10-15"
+    },
+    {
+      "id": "3",
+      "user": "Nazan",
+      "title": "React State Management",
+      "text": "What are the best practices for state management in React?",
+      "date": "2023-10-15"
+    },
+    {
+      "id": "4",
+      "user": "Michael",
+      "title": "React Hooks vs Class Components",
+      "text": "What are the advantages of using React Hooks over class components?",
+      "date": "2023-12-05"
+    },
+    {
+      "id": "5618f334-2fef-4034-8ccb-8e5300bf0091",
+      "user": "Lisa",
+      "title": "Firebase",
+      "text": "Fire base in nor work"
+    },
+    {
+      "id": "5",
+      "user": "Nazan",
+      "title": "React MVC Pattern",
+      "text": "Where can I use react mvc pattern?",
+      "date": "2023-09-10"
+    },
+    {
+      "id": "6",
+      "user": "John",
+      "title": "React State Management",
+      "text": "What are the best practices for state management in React?",
+      "date": "2023-10-15"
+    },
+    {
+      "id": "8",
+      "user": "John",
+      "title": "React State Management",
+      "text": "What are the best practices for state management in React?",
+      "date": "2023-10-15"
+    },
+    {
+      "id": "9",
+      "user": "Michael",
+      "title": "React Hooks vs Class Components",
+      "text": "What are the advantages of using React Hooks over class components?",
+      "date": "2023-12-05"
+    },
+    {
+      "id": "10",
+      "user": "Sophia",
+      "title": "React Context API",
+      "text": "How can I use the React Context API for managing global state?",
+      "date": "2024-01-10"
+    },
+    {
+      "id": "11",
+      "user": "Amanda",
+      "title": "React Performance Optimization",
+      "text": "What are some tips for optimizing the performance of React applications?",
+      "date": "2024-02-15"
+    },
+    {
+      "id": "12",
+      "user": "Emma",
+      "title": "React Native Development",
+      "text": "Can someone recommend resources for learning React Native development?",
+      "date": "2024-03-20"
+    },
+    {
+      "id": "13",
+      "user": "William",
+      "title": "React Testing Library",
+      "text": "What is the React Testing Library and how can I use it for testing React components?",
+      "date": "2024-04-25"
+    },
+    {
+      "id": "14",
+      "user": "Amanda",
+      "title": "React Server-Side Rendering",
+      "text": "How can I implement server-side rendering in React applications?",
+      "date": "2024-05-30"
+    },
+    {
+      "id": "1585c7e8-0847-449e-9f3f-7675ad85de88",
+      "user": "Nazan ",
+      "title": "react native",
+      "text": "popcoop nor working"
+    },
+    {
+      "id": "634cd487-0a85-4b9f-8347-7ff9424de7c9",
+      "user": "Nazan ",
+      "title": "reacet native ",
+      "text": "my cocopop is nor work"
+    },
+    {
+      "id": "3a779e14-c9c1-404e-a525-02faa4d23d12",
+      "user": "Amanda",
+      "title": "reacet native",
+      "text": "my cocpop is nor working"
+    }
+  ]
+}
